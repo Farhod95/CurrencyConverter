@@ -10,6 +10,12 @@ namespace CurrencyConverter.Models
         public string Kodi { get; set; }
     }
 
+    public class KursModel
+    {
+        public string Kodi { get; set; }
+        public float Qiymat { get; set; }
+    }
+
 
     public class Rootobject
     {
