@@ -2,11 +2,10 @@
 
 ## 📺 Demo Video
 
-Dasturning ishlash jarayonini quyidagi video orqali ko'rishingiz mumkin:
+Dasturning ishlash jarayonini quyidagi havola orqali ko'rishingiz mumkin:
 
-[![Currency Converter Demo](https://cdn.loom.com/sessions/thumbnails/33981b056b034747a7360a179dc560df-with-play.gif)](https://www.loom.com/share/33981b056b034747a7360a179dc560df)
+👉 [Loom orqali videoni ko'rish](https://www.loom.com/share/33981b056b034747a7360a179dc560df)
 
-*Videoni ko'rish uchun rasm ustiga bosing.*
 
 Ushbu dastur real vaqt rejimidagi valyuta kurslarini API orqali olib, turli mamlakatlar valyutalarini bir-biriga hisoblash (konvertatsiya qilish) imkonini beradi.
 
